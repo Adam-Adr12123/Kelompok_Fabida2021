@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6, p, div {
 }
 
 .jumbotron {
-    font-family: llemon;
+    font-family: 'lemon milk';
     
     color: white;
     background-image: url(img/jumbotron.png);
@@ -92,7 +92,7 @@ a {
 
 /* portpolio */
 h2 {
-    font-family: llemon;
+    font-family: 'lemon milk';
     color: white;
 }
 
